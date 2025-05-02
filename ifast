@@ -1,0 +1,6 @@
+# > iFAST Wallet
+USER-AGENT,iFAST*
+DOMAIN-KEYWORD,ifast
+DOMAIN-SUFFIX,ifastfinancial.com    # 官方登录域名，确保访问主站及交易页面  [oai_citation:0‡iFast Network](https://secure.ifastnetwork.com/ifastverve/acl/IFA_WL_Tips_On_Online_Security_Login_Page.pdf)
+DOMAIN-SUFFIX,ifastnetwork.com      # 备用及安全子域，PDF 安全建议中提及  [oai_citation:1‡iFast Network](https://secure.ifastnetwork.com/ifastverve/acl/IFA_WL_Tips_On_Online_Security_Login_Page.pdf)
+DOMAIN-SUFFIX,secure.ifastnetwork.com  # 移动端及下载资源的安全站点  [oai_citation:2‡iFast Network](https://secure.ifastnetwork.com/ifastverve/acl/IFA_WL_Tips_On_Online_Security_Login_Page.pdf)
