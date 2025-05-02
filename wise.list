@@ -1,0 +1,8 @@
+# > Wise Wallet
+USER-AGENT,Wise*
+DOMAIN-KEYWORD,wise
+DOMAIN-SUFFIX,wise.com
+DOMAIN-SUFFIX,transferwise.com
+DOMAIN-SUFFIX,api.transferwise.com
+DOMAIN-SUFFIX,tech.transferwise.com
+DOMAIN-SUFFIX,docs.wise.com
