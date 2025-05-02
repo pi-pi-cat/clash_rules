@@ -1,0 +1,6 @@
+# > Bybit
+USER-AGENT,Bybit*
+DOMAIN-KEYWORD,bybit
+DOMAIN-SUFFIX,bybit.com            # Bybit 官网及帮助中心，所有 Web 访问均在此域名下  [oai_citation:3‡Bybit](https://www.bybit.com/en/help-center/article/Introduction-to-Trading-API?utm_source=chatgpt.com)
+DOMAIN-SUFFIX,api.bybit.com         # Bybit V5 API 主机，用于程序化交易请求  [oai_citation:4‡Bybit Exchange](https://bybit-exchange.github.io/docs/v5/intro)
+DOMAIN-SUFFIX,testnet.bybit.com     # 测试网 API 及 Key 管理页面  [oai_citation:5‡Bybit](https://www.bybit.com/en/help-center/article/How-to-create-your-API-key?utm_source=chatgpt.com)
